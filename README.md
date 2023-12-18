@@ -4,7 +4,7 @@
 Engenheiro de Produção pela FEI, atualmente Analista de Dados e aspirante a Cientista de Dados. Apaixonado por transformar dados em insights valiosos.
 
 ## 🚀 Minha Jornada
-Nos últimos anos, tenho me dedicado a aprofundar meus conhecimentos na área de dados. Atualmente estou evoluindo e projetos de analista de dados, onde aplico minhas habilidades analíticas para extrair insights valiosos.
+Nos últimos anos, tenho me dedicado a aprofundar meus conhecimentos na área de dados. Atualmente estou evoluindo em projetos de analise de dados, onde aplico minhas habilidades analíticas para extrair insights valiosos.
 
 ## 🛠️ Habilidades Técnicas
 - **Linguagens Utilizadas** Python, R, SQL.
