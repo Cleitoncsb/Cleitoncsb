@@ -6,6 +6,6 @@ Nos últimos anos, tenho me dedicado a aprofundar meus conhecimentos na área de
 Sendo o meu principal objetivo o papel de Cientista de Dados, com foco em Machine Learning e IA.
 
 ## 🛠️ Habilidades Técnicas
-- **Linguagens Utilizadas** Python, R, SQL.
+- **Linguagens Utilizadas** Python, SQL.
 - **Ferramentas de Data Science**: Jupyter, Pandas. 
 - **Visualização de Dados**: Power BI.
